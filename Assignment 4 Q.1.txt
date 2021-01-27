@@ -1,0 +1,9 @@
+By how many ways we can access elements in the DOM and write about them in brief? 
+
+
+
+ID ->#demo-> getElementById() 
+Class-> .demo -> getElementsByClassName() 
+Tag -> demo -> getElementsByTagName() 
+Selector -> (single) -> querySelector() 
+Selector -> (all) -> querySelectorAll() 
