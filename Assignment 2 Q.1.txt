@@ -1,0 +1,6 @@
+What is the value of clothes[0] and why?
+const clothes = ['jacket', 't-shirt'];
+clothes.length = 0;
+console.log(clothes[0]);
+Answer:
+    Value of clothes[0] is jacket. Because in the array clothes, jacket is the first element and first element is denoted as 0.
